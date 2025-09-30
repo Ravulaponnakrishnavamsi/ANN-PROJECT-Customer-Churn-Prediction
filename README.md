@@ -46,7 +46,7 @@ streamlit run app.py
 👉 [http://localhost:8501/]
 
 # Example Prediction
-Input:
+```Input:
 Geography: France
 Gender: Male
 Age: 42
@@ -57,8 +57,8 @@ Tenure: 5 years
 Products: 2
 Credit Card: Yes
 Active Member: Yes
-
-Output:
+```
+### Output:
 ```
 Churn Probability: 0.18
 The customer is not likely to churn.
